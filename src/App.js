@@ -1,7 +1,7 @@
 import React from 'react';
 
 function App() {
-  const value = 'Taller de Deploy 2025 Demos de Martes 18 Noviembre - Version Dev';
+  const value = 'Taller de Deploy 2025 Demos de Martes 18 Noviembre - Version Dev 2.0';
   return <div>Hola gente que esta en el  {value}</div>;
 }
 
